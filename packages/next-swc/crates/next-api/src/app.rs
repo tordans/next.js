@@ -60,8 +60,8 @@ use turbopack_binding::{
 };
 
 use crate::{
-    project::Project,
     dynamic_imports::collect_next_dynamic_imports,
+    project::Project,
     route::{Endpoint, Route, Routes, WrittenEndpoint},
     server_paths::all_server_paths,
 };

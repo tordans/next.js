@@ -3436,6 +3436,7 @@ dependencies = [
  "either",
  "fxhash",
  "hex",
+ "next-transform-dynamic",
  "next-transform-font",
  "once_cell",
  "pathdiff",
